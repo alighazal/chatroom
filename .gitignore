@@ -1,1 +1,2 @@
 client/.getignore
+server/node_modules
