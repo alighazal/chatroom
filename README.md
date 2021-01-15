@@ -12,11 +12,11 @@ join|chat
 
 
 ## What's next:
-[ ] add persistance to the chat data (postgress)
-[ ] add setting to change color 
-[ ] add different colors to different users
-[ ] show all active rooms in the welcome page 
-[ ] add users limit to each room 
+- [ ] add persistance to the chat data (postgress)
+- [ ] add setting to change color 
+- [ ] add different colors to different users
+- [ ] show all active rooms in the welcome page 
+- [ ] add users limit to each room 
 
 
 
